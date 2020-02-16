@@ -76,7 +76,7 @@ de ótimos locais.
 A meta-heurística utilizada foi a Iterated Local Search (ILS). O método foi desenvolvido a partir da aplicação do VND, em seguida uma pertubação na solução para que
 haja uma variação e novamente aplicado o VND. Este procedimento acontece **N** iterações
 passadas por parâmetro.
-## Pertubação
+## Perturbação
 
 A Perturbação criada para variar a solução foi escolher de forma aleatória uma
 tarefa da solução e trocar se possível, o agente que desempenha esta por um outro agente
